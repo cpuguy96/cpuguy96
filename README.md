@@ -1,4 +1,6 @@
-![cpuguy96's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpuguy96&show_icons=true)
+![cpuguy96's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpuguy96&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpuguy96&hide=javascript,html&layout=compact)](https://github.com/cpuguy96/github-readme-stats)
+
 
 <!--
 **cpuguy96/cpuguy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
